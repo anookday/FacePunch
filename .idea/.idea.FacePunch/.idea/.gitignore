@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.FacePunch.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\fhssh\Documents\Unreal Projects\FacePunch\.idea\.idea.FacePunch\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
